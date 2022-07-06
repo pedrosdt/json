@@ -10,8 +10,9 @@
       "team": "mclaren",
       "experience": "99",
       "racecraft": "99",
-      "awareness": "99",
-      "pace": "99"
+      "awareness": "99",      
+      "pace": "99",
+      "cost: "1.000.000$"
     },
     "per": {
       "fname": "José Antonio León",
@@ -24,7 +25,8 @@
       "experience": "99",
       "racecraft": "99",
       "awareness": "99",
-      "pace": "99"
+      "pace": "99",
+      "cost: "1.000.000$"
     },
     "ham": {
       "fname": "Albery NG",
@@ -37,7 +39,8 @@
       "experience": "99",
       "racecraft": "99",
       "awareness": "99",
-      "pace": "99"
+      "pace": "99",
+      "cost: "1.000.000$"
     },
     "bot": {
       "fname": "Juanma Sánchez",
@@ -50,7 +53,8 @@
       "experience": "99",
       "racecraft": "99",
       "awareness": "99",
-      "pace": "99"
+      "pace": "99",
+      "cost: "1.000.000$"
     },
     "ric": {
       "fname": "Daniel",
@@ -63,7 +67,8 @@
       "experience": "99",
       "racecraft": "99",
       "awareness": "99",
-      "pace": "99"
+      "pace": "99",
+      "cost: "1.000.000$"
     },
     "nor": {
       "fname": "Lando",
@@ -76,7 +81,8 @@
       "experience": "99",
       "racecraft": "99",
       "awareness": "99",
-      "pace": "99"
+      "pace": "99",
+      "cost: "1.000.000$"
     },
     "lec": {
       "fname": "Charles",
@@ -89,7 +95,8 @@
       "experience": "99",
       "racecraft": "99",
       "awareness": "99",
-      "pace": "99"
+      "pace": "99",
+      "cost: "1.000.000$"
     },
     "sai": {
       "fname": "Carlos",
@@ -102,7 +109,8 @@
       "experience": "99",
       "racecraft": "99",
       "awareness": "99",
-      "pace": "99"
+      "pace": "99",
+      "cost: "1.000.000$"
     },
     "gas": {
       "fname": "Pierre",
@@ -115,7 +123,8 @@
       "experience": "99",
       "racecraft": "99",
       "awareness": "99",
-      "pace": "99"
+      "pace": "99",
+      "cost: "1.000.000$"
     },
     "tsu": {
       "fname": "Yuki",
@@ -128,7 +137,8 @@
       "experience": "99",
       "racecraft": "99",
       "awareness": "99",
-      "pace": "99"
+      "pace": "99",
+      "cost: "1.000.000$"
     },
     "vet": {
       "fname": "Sebastian",
@@ -141,7 +151,8 @@
       "experience": "99",
       "racecraft": "99",
       "awareness": "99",
-      "pace": "99"
+      "pace": "99",
+      "cost: "1.000.000$"
     },
     "str": {
       "fname": "Lance",
@@ -154,7 +165,8 @@
       "experience": "99",
       "racecraft": "99",
       "awareness": "99",
-      "pace": "99"
+      "pace": "99",
+      "cost: "1.000.000$"
     },
     "alo": {
       "fname": "Fernando",
@@ -167,7 +179,8 @@
       "experience": "99",
       "racecraft": "99",
       "awareness": "99",
-      "pace": "99"
+      "pace": "99",
+      "cost: "1.000.000$"
     },
     "oco": {
       "fname": "Esteban",
@@ -180,7 +193,8 @@
       "experience": "99",
       "racecraft": "99",
       "awareness": "99",
-      "pace": "99"
+      "pace": "99",
+      "cost: "1.000.000$"
     },
     "rai": {
       "fname": "Kimi",
@@ -193,7 +207,8 @@
       "experience": "99",
       "racecraft": "99",
       "awareness": "99",
-      "pace": "99"
+      "pace": "99",
+      "cost: "1.000.000$"
     },
     "gio": {
       "fname": "Antonio",
@@ -206,7 +221,8 @@
       "experience": "99",
       "racecraft": "99",
       "awareness": "99",
-      "pace": "99"
+      "pace": "99",
+      "cost: "1.000.000$"
     },
     "rus": {
       "fname": "George",
@@ -219,7 +235,8 @@
       "experience": "99",
       "racecraft": "99",
       "awareness": "99",
-      "pace": "99"
+      "pace": "99",
+      "cost: "1.000.000$"
     },
     "lat": {
       "fname": "Nicholas",
@@ -232,7 +249,8 @@
       "experience": "99",
       "racecraft": "99",
       "awareness": "99",
-      "pace": "99"
+      "pace": "99",
+      "cost: "1.000.000$"
     },
     "msc": {
       "fname": "Mick",
@@ -245,7 +263,8 @@
       "experience": "99",
       "racecraft": "99",
       "awareness": "99",
-      "pace": "99"
+      "pace": "99",
+      "cost: "1.000.000$"
     },
     "maz": {
       "fname": "Nikita",
@@ -258,7 +277,8 @@
       "experience": "99",
       "racecraft": "99",
       "awareness": "99",
-      "pace": "99"
+      "pace": "99",
+      "cost: "1.000.000$"
     }
   },
   "teams": {
