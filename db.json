@@ -48,7 +48,7 @@
       "abbr": "bot",
       "nr": 77,
       "country": "es",
-      "dob": "19999-03-14",
+      "dob": "1999-03-14",
       "team": "mercedes",
       "experience": "99",
       "racecraft": "99",
@@ -124,7 +124,7 @@
       "racecraft": "99",
       "awareness": "99",
       "pace": "99",
-      "cost": "1.000.000$"
+      "cost": "10$"
     },
     "tsu": {
       "fname": "José Ángel Rojas",
