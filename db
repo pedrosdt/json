@@ -1,0 +1,371 @@
+{
+"drivers": {
+"ver": {
+"fname": "Max",
+"lname": "Verstappen",
+"abbr": "ver",
+"nr": 33,
+"country": "nl",
+"dob": "1997-09-30",
+"team": "redbull"
+},
+"per": {
+"fname": "Sergio",
+"lname": "Perez",
+"abbr": "per",
+"nr": 11,
+"country": "mx",
+"dob": "1990-01-26",
+"team": "redbull"
+},
+"ham": {
+"fname": "Lewis",
+"lname": "Hamilton",
+"abbr": "ham",
+"nr": 44,
+"country": "uk",
+"dob": "1985-01-07",
+"team": "mercedes"
+},
+"bot": {
+"fname": "Valtteri",
+"lname": "Bottas",
+"abbr": "bot",
+"nr": 77,
+"country": "fi",
+"dob": "1989-08-28",
+"team": "mercedes"
+},
+"ric": {
+"fname": "Daniel",
+"lname": "Ricciardo",
+"abbr": "ric",
+"nr": 3,
+"country": "au",
+"dob": "1989-07-01",
+"team": "mclaren"
+},
+"nor": {
+"fname": "Lando",
+"lname": "Norris",
+"abbr": "nor",
+"nr": 4,
+"country": "uk",
+"dob": "1999-11-13",
+"team": "mclaren"
+},
+"lec": {
+"fname": "Charles",
+"lname": "Leclerc",
+"abbr": "lec",
+"nr": 16,
+"country": "mc",
+"dob": "1997-10-16",
+"team": "ferrari"
+},
+"sai": {
+"fname": "Carlos",
+"lname": "Sainz",
+"abbr": "sai",
+"nr": 55,
+"country": "es",
+"dob": "1994-09-01",
+"team": "ferrari"
+},
+"gas": {
+"fname": "Pierre",
+"lname": "Gasly",
+"abbr": "gas",
+"nr": 10,
+"country": "fr",
+"dob": "1996-02-07",
+"team": "alphatauri"
+},
+"tsu": {
+"fname": "Yuki",
+"lname": "Tsunoda",
+"abbr": "tsu",
+"nr": 22,
+"country": "jp",
+"dob": "2000-05-11",
+"team": "alphatauri"
+},
+"vet": {
+"fname": "Sebastian",
+"lname": "Vettel",
+"abbr": "vet",
+"nr": 5,
+"country": "de",
+"dob": "1987-07-03",
+"team": "astonmartin"
+},
+"str": {
+"fname": "Lance",
+"lname": "Stroll",
+"abbr": "str",
+"nr": 18,
+"country": "ca",
+"dob": "1998-10-29",
+"team": "astonmartin"
+},
+"alo": {
+"fname": "Fernando",
+"lname": "Alonso",
+"abbr": "alo",
+"nr": 14,
+"country": "es",
+"dob": "1981-07-29",
+"team": "alpine"
+},
+"oco": {
+"fname": "Esteban",
+"lname": "Ocon",
+"abbr": "oco",
+"nr": 31,
+"country": "fr",
+"dob": "1996-09-17",
+"team": "alpine"
+},
+"rai": {
+"fname": "Kimi",
+"lname": "Raïkkönen",
+"abbr": "rai",
+"nr": 7,
+"country": "fi",
+"dob": "1979-10-17",
+"team": "alfaromeo"
+},
+"gio": {
+"fname": "Antonio",
+"lname": "Giovinazzi",
+"abbr": "gio",
+"nr": 99,
+"country": "it",
+"dob": "1993-12-14",
+"team": "alfaromeo"
+},
+"rus": {
+"fname": "George",
+"lname": "Russel",
+"abbr": "rus",
+"nr": 63,
+"country": "uk",
+"dob": "1998-02-15",
+"team": "williams"
+},
+"lat": {
+"fname": "Nicholas",
+"lname": "Latifi",
+"abbr": "lat",
+"nr": 6,
+"country": "ca",
+"dob": "1995-06-29",
+"team": "williams"
+},
+"msc": {
+"fname": "Mick",
+"lname": "Schumacher",
+"abbr": "msc",
+"nr": 47,
+"country": "de",
+"dob": "1999-03-22",
+"team": "haas"
+},
+"maz": {
+"fname": "Nikita",
+"lname": "Mazepin",
+"abbr": "maz",
+"nr": 9,
+"country": "ru",
+"dob": "1999-03-02",
+"team": "haas"
+}
+},
+"teams": {
+"redbull": {
+"name": "Red Bull",
+"nameFull": "Red Bull Racing Honda",
+"pu": "Honda",
+"color": {
+"rgb": [
+6,
+0,
+239
+],
+"hex": "#443ff3"
+},
+"drivers": [
+"ver",
+"per"
+]
+},
+"mercedes": {
+"name": "Mercedes",
+"nameFull": "Mercedes-AMG Petronas F1 Team",
+"pu": "Mercedes",
+"color": {
+"rgb": [
+0,
+210,
+190
+],
+"hex": "#00d2be"
+},
+"drivers": [
+"ham",
+"bot"
+]
+},
+"mclaren": {
+"name": "McLaren",
+"nameFull": "McLaren F1 Team",
+"pu": "Mercedes",
+"color": {
+"rgb": [
+255,
+152,
+0
+],
+"hex": "#ff9800"
+},
+"drivers": [
+"ric",
+"nor"
+]
+},
+"ferrari": {
+"name": "Ferrari",
+"nameFull": "Scuderia Ferrari Mission Winnow",
+"pu": "Ferrari",
+"color": {
+"rgb": [
+220,
+0,
+0
+],
+"hex": "#dc0000"
+},
+"drivers": [
+"lec",
+"sai"
+]
+},
+"alphatauri": {
+"name": "AlphaTauri",
+"nameFull": "Scuderia AlphaTauri Honda",
+"pu": "Honda",
+"color": {
+"rgb": [
+43,
+69,
+98
+],
+"hex": "#2b4562"
+},
+"drivers": [
+"gas",
+"tsu"
+]
+},
+"astonmartin": {
+"name": "Aston Martin",
+"nameFull": "Aston Martin Cognizant F1 Team",
+"pu": "Mercedes",
+"color": {
+"rgb": [
+0,
+111,
+98
+],
+"hex": "#006f62"
+},
+"drivers": [
+"vet",
+"str"
+]
+},
+"alpine": {
+"name": "Aston Martin",
+"nameFull": "Alpine F1 Team",
+"pu": "Renault",
+"color": {
+"rgb": [
+0,
+144,
+255
+],
+"hex": "#0090ff"
+},
+"drivers": [
+"alo",
+"oco"
+]
+},
+"alfaromeo": {
+"name": "Alfa Romeo",
+"nameFull": "Alfa Romeo Racing ORLEN",
+"pu": "Ferrari",
+"color": {
+"rgb": [
+144,
+0,
+0
+],
+"hex": "#900000"
+},
+"drivers": [
+"rai",
+"gio"
+]
+},
+"williams": {
+"name": "Williams",
+"nameFull": "Williams Racing",
+"pu": "Mercedes",
+"color": {
+"rgb": [
+0,
+90,
+255
+],
+"hex": "#005aff"
+},
+"drivers": [
+"rus",
+"lat"
+]
+},
+"haas": {
+"name": "Haas",
+"nameFull": "Uralkali Haas F1 Team",
+"pu": "Ferrari",
+"color": {
+"rgb": [
+255,
+255,
+255
+],
+"hex": "#ffffff"
+},
+"drivers": [
+"msc",
+"maz"
+]
+}
+},
+"countries": {
+"nl": "Netherlands",
+"uk": "United Kingdom",
+"mx": "Mexico",
+"fi": "Finland",
+"mc": "Monaco",
+"es": "Spain",
+"ca": "Canada",
+"fr": "France",
+"jp": "Japan",
+"it": "Italy",
+"de": "Germany",
+"ru": "Russia",
+"au": "Australia"
+}
+}
