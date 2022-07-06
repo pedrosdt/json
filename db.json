@@ -7,7 +7,11 @@
       "nr": 33,
       "country": "es",
       "dob": "1994-10-10",
-      "team": "mclaren"
+      "team": "mclaren",
+      "experience": "99",
+      "racecraft": "99",
+      "awareness": "99",
+      "pace": "99"
     },
     "per": {
       "fname": "José Antonio León",
@@ -16,7 +20,11 @@
       "nr": 11,
       "country": "es",
       "dob": "1990-02-25",
-      "team": "mclaren"
+      "team": "mclaren",
+      "experience": "99",
+      "racecraft": "99",
+      "awareness": "99",
+      "pace": "99"
     },
     "ham": {
       "fname": "Albery NG",
@@ -25,7 +33,11 @@
       "nr": 44,
       "country": "es",
       "dob": "2005-07-14",
-      "team": "mercedes"
+      "team": "mercedes",
+      "experience": "99",
+      "racecraft": "99",
+      "awareness": "99",
+      "pace": "99"
     },
     "bot": {
       "fname": "Juanma Sánchez",
@@ -34,7 +46,11 @@
       "nr": 77,
       "country": "es",
       "dob": "19999-03-14",
-      "team": "mercedes"
+      "team": "mercedes",
+      "experience": "99",
+      "racecraft": "99",
+      "awareness": "99",
+      "pace": "99"
     },
     "ric": {
       "fname": "Daniel",
@@ -43,7 +59,11 @@
       "nr": 3,
       "country": "au",
       "dob": "1989-07-01",
-      "team": "mclaren"
+      "team": "mclaren",
+      "experience": "99",
+      "racecraft": "99",
+      "awareness": "99",
+      "pace": "99"
     },
     "nor": {
       "fname": "Lando",
@@ -52,7 +72,11 @@
       "nr": 4,
       "country": "uk",
       "dob": "1999-11-13",
-      "team": "mclaren"
+      "team": "mclaren",
+      "experience": "99",
+      "racecraft": "99",
+      "awareness": "99",
+      "pace": "99"
     },
     "lec": {
       "fname": "Charles",
@@ -61,7 +85,11 @@
       "nr": 16,
       "country": "mc",
       "dob": "1997-10-16",
-      "team": "ferrari"
+      "team": "ferrari",
+      "experience": "99",
+      "racecraft": "99",
+      "awareness": "99",
+      "pace": "99"
     },
     "sai": {
       "fname": "Carlos",
@@ -70,7 +98,11 @@
       "nr": 55,
       "country": "es",
       "dob": "1994-09-01",
-      "team": "ferrari"
+      "team": "ferrari",
+      "experience": "99",
+      "racecraft": "99",
+      "awareness": "99",
+      "pace": "99"
     },
     "gas": {
       "fname": "Pierre",
@@ -79,7 +111,11 @@
       "nr": 10,
       "country": "fr",
       "dob": "1996-02-07",
-      "team": "alphatauri"
+      "team": "alphatauri",
+      "experience": "99",
+      "racecraft": "99",
+      "awareness": "99",
+      "pace": "99"
     },
     "tsu": {
       "fname": "Yuki",
@@ -88,7 +124,11 @@
       "nr": 22,
       "country": "jp",
       "dob": "2000-05-11",
-      "team": "alphatauri"
+      "team": "alphatauri",
+      "experience": "99",
+      "racecraft": "99",
+      "awareness": "99",
+      "pace": "99"
     },
     "vet": {
       "fname": "Sebastian",
@@ -97,7 +137,11 @@
       "nr": 5,
       "country": "de",
       "dob": "1987-07-03",
-      "team": "astonmartin"
+      "team": "astonmartin",
+      "experience": "99",
+      "racecraft": "99",
+      "awareness": "99",
+      "pace": "99"
     },
     "str": {
       "fname": "Lance",
@@ -106,7 +150,11 @@
       "nr": 18,
       "country": "ca",
       "dob": "1998-10-29",
-      "team": "astonmartin"
+      "team": "astonmartin",
+      "experience": "99",
+      "racecraft": "99",
+      "awareness": "99",
+      "pace": "99"
     },
     "alo": {
       "fname": "Fernando",
@@ -115,7 +163,11 @@
       "nr": 14,
       "country": "es",
       "dob": "1981-07-29",
-      "team": "alpine"
+      "team": "alpine",
+      "experience": "99",
+      "racecraft": "99",
+      "awareness": "99",
+      "pace": "99"
     },
     "oco": {
       "fname": "Esteban",
@@ -124,7 +176,11 @@
       "nr": 31,
       "country": "fr",
       "dob": "1996-09-17",
-      "team": "alpine"
+      "team": "alpine",
+      "experience": "99",
+      "racecraft": "99",
+      "awareness": "99",
+      "pace": "99"
     },
     "rai": {
       "fname": "Kimi",
@@ -133,7 +189,11 @@
       "nr": 7,
       "country": "fi",
       "dob": "1979-10-17",
-      "team": "alfaromeo"
+      "team": "alfaromeo",
+      "experience": "99",
+      "racecraft": "99",
+      "awareness": "99",
+      "pace": "99"
     },
     "gio": {
       "fname": "Antonio",
@@ -142,7 +202,11 @@
       "nr": 99,
       "country": "it",
       "dob": "1993-12-14",
-      "team": "alfaromeo"
+      "team": "alfaromeo",
+      "experience": "99",
+      "racecraft": "99",
+      "awareness": "99",
+      "pace": "99"
     },
     "rus": {
       "fname": "George",
@@ -151,7 +215,11 @@
       "nr": 63,
       "country": "uk",
       "dob": "1998-02-15",
-      "team": "williams"
+      "team": "williams",
+      "experience": "99",
+      "racecraft": "99",
+      "awareness": "99",
+      "pace": "99"
     },
     "lat": {
       "fname": "Nicholas",
@@ -160,7 +228,11 @@
       "nr": 6,
       "country": "ca",
       "dob": "1995-06-29",
-      "team": "williams"
+      "team": "williams",
+      "experience": "99",
+      "racecraft": "99",
+      "awareness": "99",
+      "pace": "99"
     },
     "msc": {
       "fname": "Mick",
@@ -169,7 +241,11 @@
       "nr": 47,
       "country": "de",
       "dob": "1999-03-22",
-      "team": "haas"
+      "team": "haas",
+      "experience": "99",
+      "racecraft": "99",
+      "awareness": "99",
+      "pace": "99"
     },
     "maz": {
       "fname": "Nikita",
@@ -178,7 +254,11 @@
       "nr": 9,
       "country": "ru",
       "dob": "1999-03-02",
-      "team": "haas"
+      "team": "haas",
+      "experience": "99",
+      "racecraft": "99",
+      "awareness": "99",
+      "pace": "99"
     }
   },
   "teams": {
