@@ -293,8 +293,7 @@
       "name": "Mercedes",
       "nameFull": "Mercedes-AMG Petronas F1 Team",
       "pu": "Mercedes",
-      "color": {
-        "rgb": "#00d2be",
+      "color": "#00d2be",
       "drivers": ["ham", "bot"]
     },
     "mclaren": {
