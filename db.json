@@ -286,7 +286,7 @@
       "name": "Red Bull",
       "nameFull": "Red Bull Racing Honda",
       "pu": "Honda",
-      "hex": "#443ff3",
+      "color.hex": "#443ff3",
       "drivers": ["ver", "per"]
     },
     "mercedes": {
