@@ -1,0 +1,401 @@
+{
+  "drivers": {
+    "ver": {
+      "fname": "Victor Cabrera",
+      "lname": "Vicaman",
+      "abbr": "ric",
+      "nr": 65,
+      "country": "es",
+      "dob": "1994-10-10",
+      "team": "Mclaren",
+      "experience": "90",
+      "racecraft": "98",
+      "awareness": "95",
+      "pace": "98",
+      "cost": "39.000.000$"
+    },
+    "per": {
+      "fname": "José Antonio León",
+      "lname": "Perlin",
+      "abbr": "nor",
+      "nr": 25,
+      "country": "es",
+      "dob": "1990-02-25",
+      "team": "Mclaren",
+      "experience": "95",
+      "racecraft": "89",
+      "awareness": "85",
+      "pace": "87",
+      "cost": "28.000.000$"
+    },
+    "ham": {
+      "fname": "Albery NG",
+      "lname": "Nexus",
+      "abbr": "ham",
+      "nr": 30,
+      "country": "es",
+      "dob": "2005-07-14",
+      "team": "Mercedes",
+      "experience": "80",
+      "racecraft": "97",
+      "awareness": "98",
+      "pace": "94",
+      "cost": "33.000.000$"
+    },
+    "bot": {
+      "fname": "Juanma Sánchez",
+      "lname": "JMSevillista",
+      "abbr": "bot",
+      "nr": 93,
+      "country": "es",
+      "dob": "1999-03-14",
+      "team": "Mercedes",
+      "experience": "84",
+      "racecraft": "95",
+      "awareness": "90",
+      "pace": "92",
+      "cost": "30.000.000$"
+    },
+    "ric": {
+      "fname": "Ferran Gili",
+      "lname": "Ferran",
+      "abbr": "oco",
+      "nr": 95,
+      "country": "es",
+      "dob": "2001-03-13",
+      "team": "Alpine",
+      "experience": "83",
+      "racecraft": "98",
+      "awareness": "94",
+      "pace": "98",
+      "cost": "35.000.000$"
+    },
+    "nor": {
+      "fname": "Tomas Cantón",
+      "lname": "Tommy",
+      "abbr": "alo",
+      "nr": 92,
+      "country": "es",
+      "dob": "1992-09-25",
+      "team": "Alpine",
+      "experience": "93",
+      "racecraft": "93",
+      "awareness": "89",
+      "pace": "90",
+      "cost": "32.000.000$"
+    },
+    "lec": {
+      "fname": "Abel Lloris",
+      "lname": "Havel",
+      "abbr": "sai",
+      "nr": 7,
+      "country": "es",
+      "dob": "1994-06-28",
+      "team": "Ferrari",
+      "experience": "92",
+      "racecraft": "98",
+      "awareness": "90",
+      "pace": "94",
+      "cost": "36.000.000$"
+    },
+    "sai": {
+      "fname": "Raul Cortés",
+      "lname": "Rulzix",
+      "abbr": "lec",
+      "nr": 15,
+      "country": "es",
+      "dob": "1995-02-01",
+      "team": "Ferrari",
+      "experience": "89",
+      "racecraft": "92",
+      "awareness": "88",
+      "pace": "90",
+      "cost": "29.000.000$"
+    },
+    "gas": {
+      "fname": "Juan José Tarifa",
+      "lname": "Uplift",
+      "abbr": "rus",
+      "nr": 9,
+      "country": "es",
+      "dob": "1995-04-02",
+      "team": "Williams",
+      "experience": "88",
+      "racecraft": "89",
+      "awareness": "98",
+      "pace": "94",
+      "cost": "33.000.000$"
+    },
+    "tsu": {
+      "fname": "José Ángel Rojas",
+      "lname": "Joselito",
+      "abbr": "lat",
+      "nr": 66,
+      "country": "es",
+      "dob": "1992-09-13",
+      "team": "Williams",
+      "experience": "94",
+      "racecraft": "90",
+      "awareness": "87",
+      "pace": "86",
+      "cost": "28.000.000$"
+    },
+    "vet": {
+      "fname": "Álvaro Alcázar",
+      "lname": "Alvarillo",
+      "abbr": "vet",
+      "nr": 27,
+      "country": "es",
+      "dob": "2001-12-06",
+      "team": "Aston Martin",
+      "experience": "82",
+      "racecraft": "90",
+      "awareness": "94",
+      "pace": "90",
+      "cost": "28.000.000$"
+    },
+    "str": {
+      "fname": "Víctor Urquiza",
+      "lname": "Chipi",
+      "abbr": "str",
+      "nr": 19,
+      "country": "es",
+      "dob": "1989-05-16",
+      "team": "Aston Martin",
+      "experience": "96",
+      "racecraft": "89",
+      "awareness": "90",
+      "pace": "88",
+      "cost": "31.000.000$"
+    },
+    "alo": {
+      "fname": "Pedro Lavado",
+      "lname": "Pedrosdt",
+      "abbr": "per",
+      "nr": 79,
+      "country": "es",
+      "dob": "1979-11-20",
+      "team": "Red Bull",
+      "experience": "99",
+      "racecraft": "88",
+      "awareness": "92",
+      "pace": "90",
+      "cost": "33.000.000$"
+    },
+    "oco": {
+      "fname": "Nicolás Arrillaga",
+      "lname": "Larrilg",
+      "abbr": "ver",
+      "nr": 99,
+      "country": "es",
+      "dob": "1999-01-25",
+      "team": "Red Bull",
+      "experience": "85",
+      "racecraft": "92",
+      "awareness": "98",
+      "pace": "93",
+      "cost": "33.000.000$"
+    },
+    "rai": {
+      "fname": "JuanFran Peláez",
+      "lname": "Isco",
+      "abbr": "tsu",
+      "nr": 21,
+      "country": "es",
+      "dob": "1994-08-21",
+      "team": "Alpha Tauri",
+      "experience": "91",
+      "racecraft": "85",
+      "awareness": "90",
+      "pace": "88",
+      "cost": "27.000.000$"
+    },
+    "gio": {
+      "fname": "Antonio Buendía",
+      "lname": "GzAntonio",
+      "abbr": "gas",
+      "nr": 67,
+      "country": "es",
+      "dob": "2003-07-27",
+      "team": "Alpha Tauri",
+      "experience": "81",
+      "racecraft": "88",
+      "awareness": "89",
+      "pace": "91",
+      "cost": "25.000.000$"
+    },
+    "rus": {
+      "fname": "Alejandro Rata",
+      "lname": "Alexsigu",
+      "abbr": "rai",
+      "nr": 88,
+      "country": "es",
+      "dob": "1998-02-15",
+      "team": "Alfa Romeo",
+      "experience": "86",
+      "racecraft": "79",
+      "awareness": "96",
+      "pace": "86",
+      "cost": "25.000.000$"
+    },
+    "lat": {
+      "fname": "Jesús Cortés",
+      "lname": "Jesuscsc",
+      "abbr": "gio",
+      "nr": 12,
+      "country": "es",
+      "dob": "1995-06-29",
+      "team": "Alfa Romeo",
+      "experience": "87",
+      "racecraft": "78",
+      "awareness": "90",
+      "pace": "88",
+      "cost": "23.000.000$"
+    },
+    "msc": {
+      "fname": "Francisco Jesús Pérez",
+      "lname": "Corre84",
+      "abbr": "msc",
+      "nr": 37,
+      "country": "es",
+      "dob": "1984-08-21",
+      "team": "Haas",
+      "experience": "98",
+      "racecraft": "88",
+      "awareness": "90",
+      "pace": "88",
+      "cost": "31.000.000$"
+    },
+    "maz": {
+      "fname": "Antonio González",
+      "lname": "Toni23x",
+      "abbr": "maz",
+      "nr": 87,
+      "country": "es",
+      "dob": "1987-08-10",
+      "team": "Haas",
+      "experience": "97",
+      "racecraft": "86",
+      "awareness": "88",
+      "pace": "88",
+      "cost": "29.000.000$"
+    }
+  },
+  "teams": {
+    "redbull": {
+      "name": "Red Bull",
+      "nameFull": "Red Bull Racing Honda",
+      "pu": "Honda",
+      "color": "#443ff3",
+      "drivers": [
+        "ver",
+        "per"
+      ]
+    },
+    "mercedes": {
+      "name": "Mercedes",
+      "nameFull": "Mercedes-AMG Petronas F1 Team",
+      "pu": "Mercedes",
+      "color": "#00d2be",
+      "drivers": [
+        "ham",
+        "bot"
+      ]
+    },
+    "mclaren": {
+      "name": "McLaren",
+      "nameFull": "McLaren F1 Team",
+      "pu": "Mercedes",
+      "color": "#ff9800",
+      "drivers": [
+        "ric",
+        "nor"
+      ]
+    },
+    "ferrari": {
+      "name": "Ferrari",
+      "nameFull": "Scuderia Ferrari Mission Winnow",
+      "pu": "Ferrari",
+      "color": "#dc0000",
+      "drivers": [
+        "lec",
+        "sai"
+      ]
+    },
+    "alphatauri": {
+      "name": "AlphaTauri",
+      "nameFull": "Scuderia AlphaTauri Honda",
+      "pu": "Honda",
+      "color": "#2b4562",
+      "drivers": [
+        "gas",
+        "tsu"
+      ]
+    },
+    "astonmartin": {
+      "name": "Aston Martin",
+      "nameFull": "Aston Martin Cognizant F1 Team",
+      "pu": "Mercedes",
+      "color": "#006f62",
+      "drivers": [
+        "vet",
+        "str"
+      ]
+    },
+    "alpine": {
+      "name": "Aston Martin",
+      "nameFull": "Alpine F1 Team",
+      "pu": "Renault",
+      "color": "#0090ff",
+      "drivers": [
+        "alo",
+        "oco"
+      ]
+    },
+    "alfaromeo": {
+      "name": "Alfa Romeo",
+      "nameFull": "Alfa Romeo Racing ORLEN",
+      "pu": "Ferrari",
+      "color": "#900000",
+      "drivers": [
+        "rai",
+        "gio"
+      ]
+    },
+    "williams": {
+      "name": "Williams",
+      "nameFull": "Williams Racing",
+      "pu": "Mercedes",
+      "color": "#005aff",
+      "drivers": [
+        "rus",
+        "lat"
+      ]
+    },
+    "haas": {
+      "name": "Haas",
+      "nameFull": "Uralkali Haas F1 Team",
+      "pu": "Ferrari",
+      "color": "#ffffff",
+      "drivers": [
+        "msc",
+        "maz"
+      ]
+    }
+  },
+  "countries": {
+    "nl": "Netherlands",
+    "uk": "United Kingdom",
+    "mx": "Mexico",
+    "fi": "Finland",
+    "mc": "Monaco",
+    "es": "Spain",
+    "ca": "Canada",
+    "fr": "France",
+    "jp": "Japan",
+    "it": "Italy",
+    "de": "Germany",
+    "ru": "Russia",
+    "au": "Australia"
+  }
+}
